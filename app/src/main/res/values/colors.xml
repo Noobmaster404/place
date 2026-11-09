@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Base Canvas & Cards -->
+    <color name="bg_app">#F7F4ED</color>
+    <color name="card_bg">#FFFDFA</color>
+    <color name="card_stroke">#EBE6DC</color>
+    <color name="input_bg">#F2EFE8</color>
+    <color name="divider_color">#EAE5DA</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#302F2A</color>
+    <color name="text_secondary">#858178</color>
+    <color name="text_tertiary">#B5B0A6</color>
+
+    <!-- Primary Accent -->
+    <color name="brand_terracotta">#B94E38</color>
+    <color name="brand_terracotta_dark">#9C3E2A</color>
+    <color name="brand_terracotta_light">#FAECE7</color>
+
+    <!-- Theme Pastel Colors -->
+    <color name="theme_green">#E3E9DB</color>
+    <color name="theme_green_text">#3D5E30</color>
+    <color name="theme_purple">#E8E3F0</color>
+    <color name="theme_purple_text">#554078</color>
+    <color name="theme_peach">#F2DFD2</color>
+    <color name="theme_peach_text">#8F452A</color>
+    <color name="theme_yellow">#F3E9CA</color>
+    <color name="theme_yellow_text">#785B0E</color>
+    <color name="theme_blue">#DFEAF2</color>
+    <color name="theme_blue_text">#2B5274</color>
+
+    <!-- Priorities -->
+    <color name="priority_high">#D9483B</color>
+    <color name="priority_medium">#E08A27</color>
+    <color name="priority_low">#4F8247</color>
+</resources>

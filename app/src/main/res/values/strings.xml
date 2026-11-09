@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">своё место</string>
+    <string name="tab_dashboards">Мои темы</string>
+    <string name="tab_today">Сегодня</string>
+    <string name="tab_notes">Заметки</string>
+    
+    <string name="greeting_title">Всё, что вам важно</string>
+    <string name="greeting_subtitle">Разные темы. Одно своё пространство.</string>
+    <string name="search_hint">Найти тему или заметку</string>
+    <string name="my_dashboards_title">Мои дашборды</string>
+    <string name="create_dashboard">Создать дашборд</string>
+    <string name="in_focus_today">В фокусе сегодня</string>
+    <string name="view_all_day">Весь день ↗</string>
+    
+    <string name="new_space">НОВОЕ ПРОСТРАНСТВО</string>
+    <string name="new_space_heading">С чего начнётся ваша тема?</string>
+    <string name="new_space_subheading">Для больших планов и маленьких увлечений. Соберите дашборд под себя.</string>
+    <string name="dashboard_name_label">Название</string>
+    <string name="dashboard_name_hint">Например, Французский, Ремонт...</string>
+    <string name="choose_category">Выберите категорию</string>
+    <string name="cover_color">Цвет обложки</string>
+    <string name="what_inside">Что будет внутри?</string>
+    <string name="blocks_flexible_note">Блоки можно добавлять и менять в любой момент.</string>
+    <string name="add_block">Добавить блок</string>
+</resources>
